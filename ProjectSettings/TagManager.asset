@@ -15,8 +15,8 @@ TagManager:
   - LocalAvartarHead
   - LocalAvartarBody
   - Teleport
-  - 
-  - 
+  - Interactable
+  - Player
   - 
   - 
   - 
