@@ -366,6 +366,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Scripts/ActionBasedControllerManager.cs"
 "Assets/Scripts/AvatarInputConverter.cs"
+"Assets/Scripts/ButtonInteraction.cs"
+"Assets/Scripts/UI_InteractionController.cs"
 -langversion:9.0
 
 /deterministic
